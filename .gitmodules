@@ -1,0 +1,6 @@
+[submodule "flexypin"]
+	path = flexypin
+	url = https://github.com/solderparty/flexypin.git
+[submodule "kicad-modules"]
+	path = modules
+	url = https://github.com/arturo182/kicad-modules.git
