@@ -121,12 +121,12 @@
       (net 6 "/RST") (pinfunction "Pin_2") (pintype "passive") (tstamp 79c429fe-f556-43e4-83c2-13671359df34))
     (pad "2" thru_hole oval (at 1.55 2 180) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 6 "/RST") (pinfunction "Pin_2") (pintype "passive") (tstamp dc7c1ae5-d61a-483f-8581-2dc6ade2c516))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -162,12 +162,12 @@
       (net 10 "/DIO0") (pinfunction "Pin_2") (pintype "passive") (tstamp 2432fa6f-c907-4d7b-b5d4-c7d93fba51f9))
     (pad "2" thru_hole oval (at 1.55 2) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 10 "/DIO0") (pinfunction "Pin_2") (pintype "passive") (tstamp f964c33f-a9d1-4de7-a564-ef69f82eded0))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -203,12 +203,12 @@
       (net 4 "/SCK") (pinfunction "Pin_2") (pintype "passive") (tstamp 1c47fa8c-b476-4087-bfcd-0b7c40c6fc85))
     (pad "2" thru_hole oval (at 1.55 2 180) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 4 "/SCK") (pinfunction "Pin_2") (pintype "passive") (tstamp a0823234-3ea3-4055-a649-496b5a5694d9))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -244,12 +244,12 @@
       (net 1 "/GND") (pinfunction "Pin_2") (pintype "passive") (tstamp a814d099-9fb2-4dd7-a063-d9330e49c76f))
     (pad "2" thru_hole oval (at 1.55 2) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 1 "/GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 2c74dbc7-68c5-4a54-84e7-64cf62166797))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -285,12 +285,12 @@
       (net 12 "/DIO4") (pinfunction "Pin_2") (pintype "passive") (tstamp 3d397c61-db8f-4515-96f7-25d7f7f1c431))
     (pad "2" thru_hole oval (at 1.55 2) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 12 "/DIO4") (pinfunction "Pin_2") (pintype "passive") (tstamp 1713efe8-469e-4ab2-80ca-67224ba6554f))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -326,12 +326,12 @@
       (net 2 "/MISO") (pinfunction "Pin_2") (pintype "passive") (tstamp 5b687f94-afc4-4224-b486-2694ff66d487))
     (pad "2" thru_hole oval (at 1.55 2 180) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 2 "/MISO") (pinfunction "Pin_2") (pintype "passive") (tstamp 36cc7d87-0aaa-4c4a-80db-8a32b753fc0c))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1279,12 +1279,12 @@
       (net 8 "/DIO2") (pinfunction "Pin_2") (pintype "passive") (tstamp 6094bef4-9b03-4e00-b8ee-c0cd2e20963e))
     (pad "2" thru_hole oval (at 1.55 2) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 8 "/DIO2") (pinfunction "Pin_2") (pintype "passive") (tstamp 3c1856ba-4ffe-4d2d-8156-3a2d602e58c5))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1320,12 +1320,12 @@
       (net 1 "/GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 72f700c2-93cf-483c-bb06-1b9eff79251f))
     (pad "2" thru_hole oval (at 1.55 2 180) (size 2 0.95) (drill oval 1.7 0.65) (layers *.Cu *.Mask)
       (net 1 "/GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 6c935b3c-3612-4616-a354-f22e3383a8f3))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -2 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1355,7 +1355,7 @@
       (width 0.1) (fill none) (layer "F.Fab") (tstamp 1fb7ec78-bd27-4307-b2f4-2db4e44259ab))
     (pad "" smd circle (at 0 0) (size 0.5 0.5) (layers "F.Cu")
       (solder_mask_margin 0.5) (clearance 0.5) (tstamp 5b7e972c-dadc-4674-aaf8-56af2f9adefd))
-    (model "E:/Downloads/RFM95 LoRa v15.step"
+    (model "../modules/packages3D/Module_RF.3dshapes/RFM95.step"
       (offset (xyz 8 -8 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))

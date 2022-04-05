@@ -255,12 +255,12 @@
       (net 5 "/IO33") (pinfunction "Pin_1") (pintype "passive") (tstamp 45108c5b-3874-4f53-b99e-7b06655c64f6))
     (pad "2" thru_hole rect (at 0 1.27 90) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 3 "/IO34") (pinfunction "Pin_2") (pintype "passive") (tstamp 8e9472d5-2e62-43cd-b888-fa5c05783852))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -294,12 +294,12 @@
       (net 14 "/IO5") (pinfunction "Pin_1") (pintype "passive") (tstamp 5af0907a-cc5c-4a2d-827a-e091ca759470))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 19 "/IO6") (pinfunction "Pin_2") (pintype "passive") (tstamp fed927fe-eafb-4471-ac5d-756725ea174d))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -334,12 +334,12 @@
       (net 13 "/IO18") (pinfunction "Pin_1") (pintype "passive") (tstamp 29af8fa6-318a-4068-993d-88e7a24f7791))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 22 "/IO8") (pinfunction "Pin_2") (pintype "passive") (tstamp 3334571c-c306-4b79-9192-949abe8085c3))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -471,12 +471,12 @@
       (net 7 "/IO12") (pinfunction "Pin_1") (pintype "passive") (tstamp c0eb397c-0f0a-48f2-a4a7-a39c38857565))
     (pad "2" thru_hole rect (at 0 1.27 90) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 8 "/IO13") (pinfunction "Pin_2") (pintype "passive") (tstamp f157df02-fcb0-4ae7-85ca-bfc4444eda90))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -510,12 +510,12 @@
       (net 20 "/IO7") (pinfunction "Pin_1") (pintype "passive") (tstamp e4e5efbf-5f6e-47bb-b454-0f7ee3ed75bc))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 9 "/IO15") (pinfunction "Pin_2") (pintype "passive") (tstamp a3300d9e-5df3-4330-94ad-c751f1cdcdcb))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -549,12 +549,12 @@
       (net 15 "/IO16") (pinfunction "Pin_1") (pintype "passive") (tstamp 45d251bd-4b8c-43e0-a1a3-865b3e4a5a83))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 21 "/IO17") (pinfunction "Pin_2") (pintype "passive") (tstamp 4d8a27f3-5994-4c02-859b-09c0a8d34a6d))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -588,12 +588,12 @@
       (net 32 "/IO42") (pinfunction "Pin_1") (pintype "passive") (tstamp 6e9efc33-f983-4f3b-8a53-1b607511aaf7))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 31 "/RXD0") (pinfunction "Pin_2") (pintype "passive") (tstamp 91686bb5-7a82-42fb-9000-db29e45a41fa))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1696,12 +1696,12 @@
       (net 30 "/TXD0") (pinfunction "Pin_1") (pintype "passive") (tstamp 327c7a09-4eab-4720-836f-192dc5a1409c))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 10 "/IO2") (pinfunction "Pin_2") (pintype "passive") (tstamp b9f7803b-2d1f-4d54-9314-0bb75d4d2a99))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1735,12 +1735,12 @@
       (net 34 "/IO40") (pinfunction "Pin_1") (pintype "passive") (tstamp d98ff9ae-e1f8-4424-8c9a-9e8a74700dc5))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 33 "/IO41") (pinfunction "Pin_2") (pintype "passive") (tstamp 8fec7a85-0782-4e68-84e4-1af1e7efedfe))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1774,12 +1774,12 @@
       (net 36 "/IO38") (pinfunction "Pin_1") (pintype "passive") (tstamp b5d3f096-4ffd-4330-ac44-75253f8f3315))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 35 "/IO39") (pinfunction "Pin_2") (pintype "passive") (tstamp 09446760-860d-46e4-a2cb-b4efb2197664))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1844,12 +1844,12 @@
       (net 1 "/GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 660190eb-2890-4958-8da2-d63590e8e03c))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 18 "/3.3V") (pinfunction "Pin_2") (pintype "passive") (tstamp ff5ead9b-37b8-4bc9-9ac4-39775f57c6cf))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1883,12 +1883,12 @@
       (net 2 "/EN") (pinfunction "Pin_1") (pintype "passive") (tstamp d8e5be0d-d98f-406a-bb3b-e2b68228703b))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 16 "/IO4") (pinfunction "Pin_2") (pintype "passive") (tstamp 33112a1f-3ef4-4453-945b-eafb5950befb))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1923,12 +1923,12 @@
       (net 17 "/IO0") (pinfunction "Pin_1") (pintype "passive") (tstamp 10d3aed9-3207-41eb-9bd0-983b84fe7dc7))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 4 "/IO35") (pinfunction "Pin_2") (pintype "passive") (tstamp 3b8443c1-0791-438c-b19a-6f0e16558dc6))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2829,12 +2829,12 @@
       (net 29 "/IO1") (pinfunction "Pin_1") (pintype "passive") (tstamp 7ae39c29-5978-4de8-b0d8-d1c366a90b03))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 1 "/GND") (pinfunction "Pin_2") (pintype "passive") (tstamp 1292b9fb-45f9-4291-9d3e-a52497cdea91))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2899,12 +2899,12 @@
       (net 6 "/IO14") (pinfunction "Pin_1") (pintype "passive") (tstamp 0862a9b0-7459-4a5b-8ff5-5feddf0d18fe))
     (pad "2" thru_hole rect (at 0 1.27 90) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 11 "/IO21") (pinfunction "Pin_2") (pintype "passive") (tstamp 2c73e00f-5d35-4d88-becf-fdafa0c411c7))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2938,12 +2938,12 @@
       (net 27 "/IO10") (pinfunction "Pin_1") (pintype "passive") (tstamp c6765903-bc36-44e7-9cb8-22f731f64003))
     (pad "2" thru_hole rect (at 0 1.27 90) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 28 "/IO11") (pinfunction "Pin_2") (pintype "passive") (tstamp 19b27451-36d1-4db8-a770-a2f4704d803b))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2978,12 +2978,12 @@
       (net 12 "/IO19") (pinfunction "Pin_1") (pintype "passive") (tstamp b39d7b4a-582f-449b-82fa-4a80df318fb1))
     (pad "2" thru_hole rect (at 0 1.27) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 23 "/IO20") (pinfunction "Pin_2") (pintype "passive") (tstamp 2e955124-6939-410c-81be-086896fd0cd7))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3018,12 +3018,12 @@
       (net 38 "/IO36") (pinfunction "Pin_1") (pintype "passive") (tstamp ea392df3-7bcd-432a-9a3e-652caf424282))
     (pad "2" thru_hole rect (at 0 1.27 180) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 37 "/IO37") (pinfunction "Pin_2") (pintype "passive") (tstamp a6483b00-4f49-4b33-b874-e2e0d3fd9303))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3057,12 +3057,12 @@
       (net 25 "/IO46") (pinfunction "Pin_1") (pintype "passive") (tstamp 2498638f-f5bc-47e0-a9d3-49191018a41a))
     (pad "2" thru_hole rect (at 0 1.27 90) (size 1.3 0.9) (drill 0.6 (offset -0.3 0)) (layers *.Cu *.Mask)
       (net 26 "/IO9") (pinfunction "Pin_2") (pintype "passive") (tstamp 5199ad7b-ab84-4971-9df3-53270a0a37ba))
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "E:/Documents/KiCad/flexypin/3d/flexypin.step"
+    (model "../flexypin/3d/flexypin.step"
       (offset (xyz 0 -1.27 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
