@@ -20,3 +20,9 @@ This repo contains a collection of open hardware designs for common modules that
 
 ## RFM9x
 ![](./img/rfm.jpg)
+
+## RaspberryPi Pico
+![](./img/rpi_pico.jpg)
+
+## ESP-12
+![](./img/esp_12.jpg)
