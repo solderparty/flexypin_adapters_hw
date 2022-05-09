@@ -26,3 +26,6 @@ This repo contains a collection of open hardware designs for common modules that
 
 ## ESP-12
 ![](./img/esp_12.jpg)
+
+## WIO RP2040
+![](./img/wio_rp2040.jpg)
