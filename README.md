@@ -32,3 +32,6 @@ This repo contains a collection of open hardware designs for common modules that
 
 ## ESP32-WROVER
 ![](./img/esp32_wrover.jpg)
+
+## RaspberryPi Pico to Uno
+![](./img/rpi_pico_uno.jpg)
