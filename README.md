@@ -29,3 +29,6 @@ This repo contains a collection of open hardware designs for common modules that
 
 ## WIO RP2040
 ![](./img/wio_rp2040.jpg)
+
+## ESP32-WROVER
+![](./img/esp32_wrover.jpg)

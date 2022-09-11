@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FlexyPin")(type "KiCad")(uri "${KIPRJMOD}/../flexypin/FlexyPin.pretty")(options "")(descr ""))
+  (lib (name "Symbols_Extra")(type "KiCad")(uri "${KIPRJMOD}/../modules/Symbols_Extra.pretty")(options "")(descr ""))
+)
