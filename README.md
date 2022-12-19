@@ -35,3 +35,6 @@ This repo contains a collection of open hardware designs for common modules that
 
 ## RaspberryPi Pico to Uno
 ![](./img/rpi_pico_uno.jpg)
+
+## Xiao / QTPy
+![](./img/xiao_qtpy.jpg)
