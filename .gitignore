@@ -5,5 +5,7 @@
 *.bck
 gerb
 *-backups
+*#auto_saved_files#*
+_autosave-*.kicad_sch
 fp-info-cache
 jlcpcb
