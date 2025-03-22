@@ -6,6 +6,9 @@ To learn more about FlexyPins, see the dedicated repo here: https://github.com/s
 
 This repo contains a collection of open hardware designs for common modules that can be used with FlexyPins.
 
+## ESP-12
+![](./img/esp_12.jpg)
+
 ## ESP32-C3-WROOM
 ![](./img/esp32_c3.jpg)
 
@@ -15,26 +18,26 @@ This repo contains a collection of open hardware designs for common modules that
 ## ESP32-WROOM
 ![](./img/esp32_wroom.jpg)
 
+## ESP32-WROVER
+![](./img/esp32_wrover.jpg)
+
 ## M5Stamp-Pico
 ![](./img/m5stamp_pico.jpg)
-
-## RFM9x
-![](./img/rfm.jpg)
 
 ## RaspberryPi Pico
 ![](./img/rpi_pico.jpg)
 
-## ESP-12
-![](./img/esp_12.jpg)
+## RaspberryPi Pico to Uno
+![](./img/rpi_pico_uno.jpg)
+
+## RaspberryPi RM2
+![](./img/rpi_rm2.jpg)
+
+## RFM9x
+![](./img/rfm.jpg)
 
 ## WIO RP2040
 ![](./img/wio_rp2040.jpg)
-
-## ESP32-WROVER
-![](./img/esp32_wrover.jpg)
-
-## RaspberryPi Pico to Uno
-![](./img/rpi_pico_uno.jpg)
 
 ## Xiao / QTPy
 ![](./img/xiao_qtpy.jpg)
